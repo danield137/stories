@@ -17,4 +17,4 @@ Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 © 2025 Daniel Dror. All rights reserved.
 
 Trademarks:
-The names ‘Mira’, ‘The Initiative Line’, and all related story elements, titles, characters, and designs are the intellectual property of Daniel Dror. Use of these terms in derivative works, adaptations, or promotional material without explicit written permission is prohibited.
+The names ‘Maya’, ‘The Initiative Line’, and all related story elements, titles, characters, and designs are the intellectual property of Daniel Dror. Use of these terms in derivative works, adaptations, or promotional material without explicit written permission is prohibited.
