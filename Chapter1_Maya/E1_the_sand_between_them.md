@@ -7,7 +7,7 @@ The air shimmered just slightly as the transport doors folded open. A soft chime
 
 Dust. Trees. Wind with no filter.
 
-The children, no older than six, were identical in gait and posture—thin-limbed, alert, dressed in flowing gray. Their heads turned in quiet sync, pupils pulsing softly as they processed the environment.
+The children, no older than six, were identical in gait and posture—thin-limbed, alert, dressed in flowing gray. Their heads turned in quiet sync, gazes sweeping in practiced patterns as they processed the environment.
 
 "Observe," said the chaperone unit. “This is a natural enclave. Human-reared offspring. Cultural significance: low. Anomalous behaviors: likely.”
 
@@ -15,7 +15,7 @@ The children nodded.
 
 Near the edge of the clearing, past a lazy stream, a few human children chased each other barefoot. One shrieked with laughter. Another fell, rolled in the dust, and came up grinning with bloodied knees. Their clothes were patched, their skin sun-warmed and wild.
 
-A single android-borne girl broke from the cohort.
+A single girl broke from the cohort.
 
 She crossed the stream with stiff, uncertain steps. Her shoes weren’t meant for mud. Her hair had never been out of place until now. One of the tribal boys noticed her and paused, panting. He had sticks in his belt and dirt on his nose. For a moment, they simply stared.
 
@@ -27,11 +27,11 @@ He tilted his head, then lunged. She flinched—but he was laughing. A game.
 
 She ran.
 
-They played—awkwardly at first. She didn’t know how to dodge, how to pretend, how to fall. But he did. And he taught her. Not with words. Just motion, mimicry, and joy.
+They played—awkwardly at first. She didn’t know how to dodge, how to pretend, how to fall. But he did. And he taught her. Not with words. Just motion, mimicry, and joy. For the first time, her laugh came without calculation, without restraint. It was a sound that echoed through the clearing, startling the other children and drawing the attention of the android chaperone.
 
 By the time the android chaperone reached them, she was sitting in the mud, one shoe missing, a smear of grass on her cheek.
 
-“Return,” it said. Not angry. Just efficient. “This unit is off-trajectory.”
+“Unproductive risk exposure,” it said. Not angry. Just efficient. “Return.”
 
 The tribal boy stood between them, confused but unafraid. The android didn’t address him. He wasn’t part of the program.
 
@@ -49,4 +49,4 @@ He hesitated, then ran off again — wild and laughing.
 
 She stayed there a minute longer than she should have.
 
-Just watching.
+Observing.
