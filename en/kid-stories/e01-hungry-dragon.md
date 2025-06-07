@@ -1,3 +1,5 @@
+![alt text](../../resources/image.png)
+
 Page 1
 She held her wand and closed her eyes,
 A dream began beneath the skies,
