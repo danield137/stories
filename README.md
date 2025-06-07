@@ -1,10 +1,23 @@
 # stories
 
-This repo is my personal experiment of writing stories in collaboration with AI.
+This repo is my personal experiment of writing stories with AI assistance.
 
-Each Chapter (folder) is a separate world, containing multiple stories (E - for entry). These could be continuations of the same story, or completely different ones.
+## Repository Structure
 
-The themes are sci-fi, exploring the future of humanity, and the impact of AI on our lives.
+- Stories are organized by the following folder structure:
+  ```
+  {type}/{name}/{content|resources}/{language}/{chapter}/{entry}.md
+  ```
+  - **type**: The category of the story (e.g., `kids`, `adults`).
+  - **name**: The name of the book or story world.
+  - **content** or **resources**:
+    - `content` contains the actual story text.
+    - `resources` contains images or supporting materials.
+  - **language**: The language code (e.g., `heb` for Hebrew, `eng` for English).
+  - **chapter**: The chapter folder (may be skipped if there is only one chapter).
+  - **entry**: The Markdown file for a specific entry (can be multiple pages long).
+
+- Each entry (`.md` file) may contain several pages of the story.
 
 ## License
 
